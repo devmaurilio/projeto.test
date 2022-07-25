@@ -1,0 +1,9 @@
+body, html{
+    height: 100%
+    margin: 0;
+}
+.bg{
+    background-image: url(https://www.boavista.rr.leg.br/imagens/emconstruo.jpg/image);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
